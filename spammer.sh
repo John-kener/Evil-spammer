@@ -1,22 +1,23 @@
+echo -e "\e[1;33m INSTALLING REQUIREMENTS "
 pkg install figlet
 pkg install lolcat
 figlet "over"|lolcat
 sleep 2
 clear    
-echo -e "\e[1;31m________________________________________________________________________"
+echo -e "\e[1;35m ________________________________________________________________________"
 echo
 figlet -f banner EVIL SPAMMER |lolcat
 echo -e "              Created By JOHN KENER "
 echo -e "              @ CYBER WARRIORS "
-echo -e "\e[1;31m________________________________________________________________________"
-echo -e "\e[1;31m________________________________________________________________________"                                                                                                                          
+echo -e "\e[1;35m ________________________________________________________________________"
+echo -e "\e[1;35m________________________________________________________________________"                                                                                                                          
 echo
-echo -e "\e[99m                   [1]  Normal spam 1                    |\e[0m";                                                                                                                                                             
-echo -e "\e[98m                   [2]  Powerful spam 2                  |\e[0m";
-echo -e "\e[97m                   [3]  Read more spam                   |\e[0m";                                                                                                                                                             
-echo -e "\e[95m                   [4]  Mobile number spam               |\e[0m";
-echo -e "\e[96m                   [5]  ABOUT US                         |\e[0m";
-echo -e "\e[96m                   [6]  EXIT                             |\e[om";  
+echo -e "                         [1]  Normal spam 1                    |\e[0m";                                                                                                                                                             
+echo -e "                         [2]  Powerful spam 2                  |\e[0m";
+echo -e "                         [3]  Read more spam                   |\e[0m";                                                                                                                                                             
+echo -e "                         [4]  Mobile number spam               |\e[0m";
+echo -e "                         [5]  ABOUT US                         |\e[0m";
+echo -e "                         [6]  EXIT                             |\e[om";  
 echo
 function req(){
     cd ..
@@ -35,7 +36,7 @@ function copy(){
 
 
 }
-read -p' OPTION එකක් තෝරන්න :- ' userinput1;
+read -p'\e[1;33m OPTION එකක් තෝරන්න :- ' userinput1;
 if [ "${userinput1:-}" = "1" ]
 then
     copy
@@ -74,7 +75,7 @@ echo -e """\e[1;32m
 _______________________________________________________
 |                                                     |
 |                                                     |
-| [--] CREATED BY: JOHN KENER(OWNER OF CYBER WARRIORS)|                            |
+| [--] CREATED BY: JOHN KENER(OWNER OF CYBER WARRIORS)|
 |
 |                                                     |
 |
