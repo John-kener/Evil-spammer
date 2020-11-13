@@ -16,8 +16,8 @@ echo -e "              @ CYBER WARRIORS "
 echo -e "\e[1;35m ________________________________________________________________________"
 echo -e "\e[1;35m________________________________________________________________________"                                                                                                                          
 echo
-echo -e "\e[1;33m                 [1]  Normal spam 1                    ";                                                                                                                                                             
-echo -e "\e[1;33m                 [2]  Powerful spam 2                  ";
+echo -e "\e[1;33m                 [1]  Normal spam                      ";                                                                                                                                                             
+echo -e "\e[1;33m                 [2]  Powerful spam                    ";
 echo -e "\e[1;33m                 [3]  Read more spam                   ";                                                                                                                                                             
 echo -e "\e[1;33m                 [4]  Mobile number spam               ";
 echo -e "\e[1;33m                 [5]  ABOUT US                         ";
