@@ -12,17 +12,17 @@ echo -e "              @ CYBER WARRIORS "
 echo -e "\e[1;35m ________________________________________________________________________"
 echo -e "\e[1;35m________________________________________________________________________"                                                                                                                          
 echo
-echo -e "                         [1]  Normal spam 1                    |\e[0m";                                                                                                                                                             
-echo -e "                         [2]  Powerful spam 2                  |\e[0m";
-echo -e "                         [3]  Read more spam                   |\e[0m";                                                                                                                                                             
-echo -e "                         [4]  Mobile number spam               |\e[0m";
-echo -e "                         [5]  ABOUT US                         |\e[0m";
-echo -e "                         [6]  EXIT                             |\e[om";  
+echo -e "                         [1]  Normal spam 1                    ";                                                                                                                                                             
+echo -e "                         [2]  Powerful spam 2                  ";
+echo -e "                         [3]  Read more spam                   ";                                                                                                                                                             
+echo -e "                         [4]  Mobile number spam               ";
+echo -e "                         [5]  ABOUT US                         ";
+echo -e "                         [6]  EXIT                             ";  
 echo
 function req(){
     cd ..
     cd cws
-    echo -e "\e[1;32m  දැන් ෴ මේක සම්පූර්ණයෙන්ම COPY  කරගන්න....!!!     \e[0m";
+    echo -e "  දැන් ෴ මේක සම්පූර්ණයෙන්ම COPY  කරගන්න....!!!     \e[0m";
     sleep 3
 }
 function copy(){
