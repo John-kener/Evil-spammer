@@ -1,4 +1,8 @@
+echo
+echo
 echo -e "\e[1;33m INSTALLING REQUIREMENTS "
+echo
+echo
 pkg install figlet
 pkg install lolcat
 figlet "over"|lolcat
@@ -12,12 +16,12 @@ echo -e "              @ CYBER WARRIORS "
 echo -e "\e[1;35m ________________________________________________________________________"
 echo -e "\e[1;35m________________________________________________________________________"                                                                                                                          
 echo
-echo -e "                         [1]  Normal spam 1                    ";                                                                                                                                                             
-echo -e "                         [2]  Powerful spam 2                  ";
-echo -e "                         [3]  Read more spam                   ";                                                                                                                                                             
-echo -e "                         [4]  Mobile number spam               ";
-echo -e "                         [5]  ABOUT US                         ";
-echo -e "                         [6]  EXIT                             ";  
+echo -e "\e[1;33m                 [1]  Normal spam 1                    ";                                                                                                                                                             
+echo -e "\e[1;33m                 [2]  Powerful spam 2                  ";
+echo -e "\e[1;33m                 [3]  Read more spam                   ";                                                                                                                                                             
+echo -e "\e[1;33m                 [4]  Mobile number spam               ";
+echo -e "\e[1;33m                 [5]  ABOUT US                         ";
+echo -e "\e[1;33m                 [6]  EXIT                             ";  
 echo
 function req(){
     cd ..
