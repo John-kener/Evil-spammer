@@ -65,8 +65,7 @@ then
     cat spm4   
 fi
 if [ "${userinput1:-}" = "5" ]
-then
-figlet 
+then 
 echo -e """\e[1;32m 
 
              +-+-+-+-+-+ +-+-+-+-+-+-+-+-+
