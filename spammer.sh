@@ -96,7 +96,6 @@ _______________________________________________________
 |  https://chat.whatsapp.com/DWMOhdZv78RHfYpmVfjBuS   |
 |                                                     |
 |                                                     |
-|                                                     |
 | [--] Youtube channel:                               |
 |http://m.youtube.com/channel/UCOC4YlK-7mb5jIbCRcuijvQ|
 |                                                     |
