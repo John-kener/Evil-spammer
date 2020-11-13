@@ -40,7 +40,7 @@ function copy(){
 
 
 }
-read -p'\e[1;33m OPTION එකක් තෝරන්න :- ' userinput1;
+read -p' OPTION එකක් තෝරන්න :- ' userinput1;
 if [ "${userinput1:-}" = "1" ]
 then
     copy
