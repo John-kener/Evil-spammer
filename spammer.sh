@@ -65,7 +65,7 @@ fi
 if [ "${userinput1:-}" = "4" ]
 then
     copy
-    cp spm4 /data/data/com.termux files/home/Evil-spammer/cws
+    cp spm4 /data/data/com.termux/files/home/Evil-spammer/cws
     req
     cat spm4   
 fi
