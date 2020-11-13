@@ -36,28 +36,28 @@ read -p' SPAM වර්ගය තෝරන්න :-' userinput1;
 if [ "${userinput1:-}" = "1" ]
 then
     copy
-    cp spam1 /data/data/com.termux/files/home/Evil-spammer/cws
+    cp spm1 /data/data/com.termux/files/home/Evil-spammer/cws
     req
     cat spm1
 fi
 if [ "${userinput1:-}" = "2" ]
 then
     copy
-    cp spam2 /data/data/com.termux/files/home/Evil-spammer/cws
+    cp spm2 /data/data/com.termux/files/home/Evil-spammer/cws
     req
     cat spm2
 fi
 if [ "${userinput1:-}" = "3" ]
 then
     copy
-    cp spam3 /data/data/com.termux/files/home/Evil-spammer/cws
+    cp spm3 /data/data/com.termux/files/home/Evil-spammer/cws
     req
     cat spm3
 fi
 if [ "${userinput1:-}" = "4" ]
 then
     copy
-    cp spam4 /data/data/com.termux/files/home/Evil-spammer/cws
+    cp spm4 /data/data/com.termux/files/home/Evil-spammer/cws
     req
     cat spm4
 fi
