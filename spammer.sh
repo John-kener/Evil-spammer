@@ -1,23 +1,15 @@
 pkg install figlet
 pkg install lolcat
-clear
-figlet -f slant "EvilSpammer"|lolcat
+figlet -f slant "over"|lolcat
 sleep 2
 clear                                                                                                                                                                                                               
-echo -e "\e[1;33m      ####### #     # ### #         #####  ######     #    #     # #     # ####### ######  "  
-echo -e "\e[1;33m      #       #     #  #  #        #     # #     #   # #   ##   ## ##   ## #       #     # "
-echo -e "\e[1;31m      #       #     #  #  #        #       #     #  #   #  # # # # # # # # #       #     # "
-echo -e "\e[1;31m      #####   #     #  #  #         #####  ######  #     # #  #  # #  #  # #####   ######  "
-echo -e "\e[1;33m      #        #   #   #  #              # #       ####### #     # #     # #       #   #   "
-echo -e "\e[1;33m      #         # #    #  #        #     # #       #     # #     # #     # #       #    #  "
-echo -e "\e[1;32m      #######    #    ### #######   #####  #       #     # #     # #     # ####### #     # "
-echo -e "\e[1;32    
+figlet EVIL SPAMMER |lolcat
 echo -e "\e[1;32m      Created By JOHN KENER "
 
 
 echo -e "\e[1;31m________________________________________________________________________"                                                                                                                          
 echo
-echo -e "\e[99m                   [1]                                          |\e[0m";                                                                                                                                                             
+echo -e "\e[99m                   [1]       spam 1                |\e[0m";                                                                                                                                                             
 echo -e "\e[98m                   [2]  Spam Item 02               |\e[0m";
 echo -e "\e[97m                   [3]  Spam Item 03               |\e[0m";                                                                                                                                                             
 echo -e "\e[95m                   [4]  Spam Item 04               |\e[0m";
