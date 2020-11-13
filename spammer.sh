@@ -1,18 +1,20 @@
 pkg install figlet
 pkg install lolcat
-figlet -f slant "over"|lolcat
+figlet "over"|lolcat
 sleep 2
-clear                                                                                                                                                                                                               
-figlet EVIL SPAMMER |lolcat
-echo -e "\e[1;32m      Created By JOHN KENER "
-
-
+clear    
+echo -e "\e[1;31m________________________________________________________________________"
+echo
+figlet -f banner EVIL SPAMMER |lolcat
+echo -e "              Created By JOHN KENER "
+echo -e "              @ CYBER WARRIORS "
+echo -e "\e[1;31m________________________________________________________________________"
 echo -e "\e[1;31m________________________________________________________________________"                                                                                                                          
 echo
-echo -e "\e[99m                   [1]       spam 1                |\e[0m";                                                                                                                                                             
-echo -e "\e[98m                   [2]  Spam Item 02               |\e[0m";
-echo -e "\e[97m                   [3]  Spam Item 03               |\e[0m";                                                                                                                                                             
-echo -e "\e[95m                   [4]  Spam Item 04               |\e[0m";
+echo -e "\e[99m                   [1]  Normal spam 1               |\e[0m";                                                                                                                                                             
+echo -e "\e[98m                   [2]  Normal spam 2               |\e[0m";
+echo -e "\e[97m                   [3]  Powerful spam               |\e[0m";                                                                                                                                                             
+echo -e "\e[95m                   [4]  CONTACT SPAM               |\e[0m";
 echo -e "\e[96m                   [5]  Exit           |\e[0m";
 echo
 function req(){
