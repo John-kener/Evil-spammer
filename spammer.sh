@@ -35,7 +35,7 @@ function copy(){
 
 
 }
-read -p' SPAM වර්ගය තෝරන්න :-' userinput1;
+read -p' OPTION එකක් තෝරන්න:-' userinput1;
 if [ "${userinput1:-}" = "1" ]
 then
     copy
@@ -64,7 +64,7 @@ then
     req
     cat spm4   
 fi
-if [ "${userinput1:-}" = "2" ]
+if [ "${userinput1:-}" = "5" ]
 then
 echo -e """ 
 _______________________________________________________
