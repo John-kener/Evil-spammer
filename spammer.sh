@@ -62,31 +62,19 @@ function copy(){
 read -p' OPTION එකක් තෝරන්න :- ' userinput1;
 if [ "${userinput1:-}" = "1" ]
 then
-    copy
-    cp spm1 /data/data/com.termux/files/home/Evil-spammer/cws
-    req
-    cat spm1
+cd && cd Evil-Spammer && cd spm && cat spm1
 fi
 if [ "${userinput1:-}" = "2" ]
 then
-    copy
-    cp spm2 /data/data/com.termux/files/home/Evil-spammer/cws
-    req
-    cat spm2
+   cd && cd Evil-Spammer && cd spm && cat spm2 
 fi
 if [ "${userinput1:-}" = "3" ]
 then
-    copy
-    cp spm3 /data/data/com.termux/files/home/Evil-spammer/cws
-    req
-    cat spm3
+  cd && cd Evil-Spammer && cd spm && cat spm3  
 fi
 if [ "${userinput1:-}" = "4" ]
 then
-    copy
-    cp spm4 /data/data/com.termux/files/home/Evil-spammer/cws
-    req
-    cat spm4   
+    cd && cd Evil-Spammer && cd spm && cat spm4   
 fi
 if [ "${userinput1:-}" = "5" ]
 then 
