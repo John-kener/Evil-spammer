@@ -3,9 +3,11 @@ echo
 echo -e "\e[1;33m INSTALLING REQUIREMENTS "
 echo
 echo
-pkg install figlet
-pkg install lolcat
-figlet "over"|lolcat
+pkg install figlet -y
+pkg install lolcat -y
+pkg install cowsay -y
+pkg install toilet -y
+figlet "over"|lolcat -y
 sleep 2
 clear    
 echo -e "\e[1;35m ________________________________________________________________________"
