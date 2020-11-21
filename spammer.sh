@@ -56,7 +56,7 @@ function copy(){
 read -p' OPTION එකක් තෝරන්න :- ' userinput1;
 if [ "${userinput1:-}" = "1" ]
 then
-cd && cd Evil-Spammer && cd spm && cat spm1
+cd && cd Evil-spammer && cd spm && cat spm1
 echo
 echo
 while true; do
@@ -100,7 +100,7 @@ done
 fi
 if [ "${userinput1:-}" = "3" ]
 then
-  cd && cd Evil-Spammer && cd spm && cat spm3  
+  cd && cd Evil-spammer && cd spm && cat spm3  
 echo
 echo
   while true; do
@@ -122,7 +122,7 @@ done
 fi
 if [ "${userinput1:-}" = "4" ]
 then
-    cd && cd Evil-Spammer && cd spm && cat spm4
+    cd && cd Evil-spammer && cd spm && cat spm4
 echo
 echo
 while true; do
