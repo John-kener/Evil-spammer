@@ -65,7 +65,7 @@ while true; do
 
     case $yn in
 
-        [Yy]* ) cd && cd Evil-Spammer && bash spammer.sh  ; break;;
+        [Yy]* ) cd && cd Evil-spammer && bash spammer.sh  ; break;;
 
         [Nn]* ) exit ;;
 
@@ -78,7 +78,7 @@ done
 fi
 if [ "${userinput1:-}" = "2" ]
 then
-   cd && cd Evil-Spammer && cd spm && cat spm2 
+   cd && cd Evil-spammer && cd spm && cat spm2 
    echo
    echo
    while true; do
@@ -87,7 +87,7 @@ then
 
     case $yn in
 
-        [Yy]* ) cd && cd Evil-Spammer && bash spammer.sh  ; break;;
+        [Yy]* ) cd && cd Evil-spammer && bash spammer.sh  ; break;;
 
         [Nn]* ) exit ;;
 
@@ -109,7 +109,7 @@ echo
 
     case $yn in
 
-        [Yy]* ) cd && cd Evil-Spammer && bash spammer.sh  ; break;;
+        [Yy]* ) cd && cd Evil-spammer && bash spammer.sh  ; break;;
 
         [Nn]* ) exit ;;
 
@@ -131,7 +131,7 @@ while true; do
 
     case $yn in
 
-        [Yy]* ) cd && cd Evil-Spammer && bash spammer.sh  ; break;;
+        [Yy]* ) cd && cd Evil-spammer && bash spammer.sh  ; break;;
 
         [Nn]* ) exit ;;
 
@@ -182,7 +182,7 @@ while true; do
 
     case $yn in
 
-        [Yy]* ) cd && cd Evil-Spammer && bash spammer.sh  ; break;;
+        [Yy]* ) cd && cd Evil-spammer && bash spammer.sh  ; break;;
 
         [Nn]* ) exit ;;
 
