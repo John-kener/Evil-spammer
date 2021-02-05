@@ -3,6 +3,8 @@ echo
 figlet CYBER | lolcat -a -d 5
 figlet WARRIORS | lolcat -a -d 5
 sleep 1
+xdg-open https://youtu.be/lA3Q7kajIKY 
+sleep 0.7
 clear    
 echo -e "\e[1;31m ________________________________________________________________________"
 echo -e "\e[1;31m ________________________________________________________________________"
